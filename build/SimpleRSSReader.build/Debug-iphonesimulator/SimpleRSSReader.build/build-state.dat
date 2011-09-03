@@ -1,0 +1,262 @@
+TSimpleRSSReader
+v7
+r0
+t336289288.391842
+cCheck dependencies
+cProcessInfoPlistFile /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/Info.plist SimpleRSSReader-Info.plist
+cCompileXIB /Users/hobby/Documents/SimpleRSSReader/MainWindow.xib
+cCompileXIB /Users/hobby/Documents/SimpleRSSReader/RootViewController.xib
+cProcessPCH /var/folders/EN/ENyP173gGJSC-ulLjoisqk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleRSSReader_Prefix-eqcbhivzafxaojcgpifgciwlwcrb/SimpleRSSReader_Prefix.pch.gch SimpleRSSReader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/main.o /Users/hobby/Documents/SimpleRSSReader/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/SimpleRSSReaderAppDelegate.o /Users/hobby/Documents/SimpleRSSReader/Classes/SimpleRSSReaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/RootViewController.o /Users/hobby/Documents/SimpleRSSReader/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/SimpleRSSReader normal i386
+cGenerateDSYMFile /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app.dSYM /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/SimpleRSSReader
+cTouch /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/hobby/Documents/SimpleRSSReader/Classes/RootViewController.h
+c000000004E5A00990000000000000584
+t1314521241
+s1412
+i<UIKit/UIKit.h>
+
+N/Users/hobby/Documents/SimpleRSSReader/Classes/RootViewController.m
+c000000004E5B268200000000000021DD
+t1314596482
+s8669
+i"RootViewController.h"
+
+N/Users/hobby/Documents/SimpleRSSReader/Classes/SimpleRSSReaderAppDelegate.h
+c000000004E59D6FB00000000000001E7
+t1314510587
+s487
+i<UIKit/UIKit.h>
+
+N/Users/hobby/Documents/SimpleRSSReader/Classes/SimpleRSSReaderAppDelegate.m
+c000000004E59D6FB0000000000000ADB
+t1314510587
+s2779
+i"SimpleRSSReaderAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/hobby/Documents/SimpleRSSReader/MainWindow.xib
+c000000004E59EA310000000000007C3F
+t1314515505
+s31807
+
+N/Users/hobby/Documents/SimpleRSSReader/RootViewController.xib
+c000000004E59D6FB000000000000445A
+t1314510587
+s17498
+
+N/Users/hobby/Documents/SimpleRSSReader/SimpleRSSReader_Prefix.pch
+c000000004E59D6FB0000000000000150
+t1314510587
+s336
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app
+t1314596488
+s238
+
+N/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app.dSYM
+t1314596488
+s102
+
+N/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/Info.plist
+t1314511396
+s629
+
+N/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/MainWindow.nib
+t1314515509
+s4109
+
+N/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/PkgInfo
+t1314511396
+s8
+
+N/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/RootViewController.nib
+t1314511399
+s1518
+
+N/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/SimpleRSSReader
+t1314596488
+s25756
+
+N/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/RootViewController.o
+t1314596487
+s63212
+
+N/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/SimpleRSSReader.LinkFileList
+c000000004E59DA2400000000000001C2
+t1314511396
+s450
+
+N/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/SimpleRSSReaderAppDelegate.o
+t1314521243
+s53448
+
+N/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/main.o
+t1314511406
+s6312
+
+N/Users/hobby/Documents/SimpleRSSReader/main.m
+c000000004E59D6FB000000000000016D
+t1314510587
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/EN/ENyP173gGJSC-ulLjoisqk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleRSSReader_Prefix-eqcbhivzafxaojcgpifgciwlwcrb/SimpleRSSReader_Prefix.pch.gch
+t1314511406
+s15814064
+
+NSimpleRSSReader-Info.plist
+c000000004E59D6FB000000000000038D
+t1314510587
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies336289284#336289284#0(0"0(0#1#0"8606944448#0"0#
+
+CCompileC build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/RootViewController.o /Users/hobby/Documents/SimpleRSSReader/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s336289284.667811
+e336289287.633569
+r1
+xCompileC
+xbuild/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/RootViewController.o
+x/Users/hobby/Documents/SimpleRSSReader/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/hobby/Documents/SimpleRSSReader/Classes/RootViewController.m336289284#336289287#0(0"0(0#0#67"/Users/hobby/Documents/SimpleRSSReader/Classes/RootViewController.m8605902208#2110"    cd /Users/hobby/Documents/SimpleRSSReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/SimpleRSSReader-generated-files.hmap -I/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/SimpleRSSReader-own-target-headers.hmap -I/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/SimpleRSSReader-all-target-headers.hmap -iquote /Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/SimpleRSSReader-project-headers.hmap -F/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator -I/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/include -I/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/DerivedSources/i386 -I/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/DerivedSources -include /var/folders/EN/ENyP173gGJSC-ulLjoisqk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleRSSReader_Prefix-eqcbhivzafxaojcgpifgciwlwcrb/SimpleRSSReader_Prefix.pch -c /Users/hobby/Documents/SimpleRSSReader/Classes/RootViewController.m -o /Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/SimpleRSSReaderAppDelegate.o /Users/hobby/Documents/SimpleRSSReader/Classes/SimpleRSSReaderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s336214042.901891
+e336214043.119193
+r1
+xCompileC
+xbuild/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/SimpleRSSReaderAppDelegate.o
+x/Users/hobby/Documents/SimpleRSSReader/Classes/SimpleRSSReaderAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/hobby/Documents/SimpleRSSReader/Classes/SimpleRSSReaderAppDelegate.m336214042#336214043#0(0"0(0#0#75"/Users/hobby/Documents/SimpleRSSReader/Classes/SimpleRSSReaderAppDelegate.m8616145120#2126"    cd /Users/hobby/Documents/SimpleRSSReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/SimpleRSSReader-generated-files.hmap -I/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/SimpleRSSReader-own-target-headers.hmap -I/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/SimpleRSSReader-all-target-headers.hmap -iquote /Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/SimpleRSSReader-project-headers.hmap -F/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator -I/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/include -I/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/DerivedSources/i386 -I/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/DerivedSources -include /var/folders/EN/ENyP173gGJSC-ulLjoisqk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleRSSReader_Prefix-eqcbhivzafxaojcgpifgciwlwcrb/SimpleRSSReader_Prefix.pch -c /Users/hobby/Documents/SimpleRSSReader/Classes/SimpleRSSReaderAppDelegate.m -o /Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/SimpleRSSReaderAppDelegate.o0#
+
+CCompileC build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/main.o /Users/hobby/Documents/SimpleRSSReader/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s336204206.644020
+e336204206.980228
+r1
+xCompileC
+xbuild/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/main.o
+x/Users/hobby/Documents/SimpleRSSReader/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/hobby/Documents/SimpleRSSReader/main.m336204206#336204206#0(0"0(0#0#45"/Users/hobby/Documents/SimpleRSSReader/main.m8614889472#2074"    cd /Users/hobby/Documents/SimpleRSSReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/SimpleRSSReader-generated-files.hmap -I/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/SimpleRSSReader-own-target-headers.hmap -I/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/SimpleRSSReader-all-target-headers.hmap -iquote /Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/SimpleRSSReader-project-headers.hmap -F/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator -I/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/include -I/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/DerivedSources/i386 -I/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/DerivedSources -include /var/folders/EN/ENyP173gGJSC-ulLjoisqk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleRSSReader_Prefix-eqcbhivzafxaojcgpifgciwlwcrb/SimpleRSSReader_Prefix.pch -c /Users/hobby/Documents/SimpleRSSReader/main.m -o /Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/hobby/Documents/SimpleRSSReader/MainWindow.xib
+s336208308.052077
+e336208309.148403
+r1
+xCompileXIB
+x/Users/hobby/Documents/SimpleRSSReader/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib336208308#336208309#0(0"0(0#0#53"/Users/hobby/Documents/SimpleRSSReader/MainWindow.xib8618511808#578"    cd /Users/hobby/Documents/SimpleRSSReader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/MainWindow.nib /Users/hobby/Documents/SimpleRSSReader/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/hobby/Documents/SimpleRSSReader/RootViewController.xib
+s336204196.675214
+e336204200.075874
+r1
+xCompileXIB
+x/Users/hobby/Documents/SimpleRSSReader/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib336204196#336204200#0(0"0(0#0#61"/Users/hobby/Documents/SimpleRSSReader/RootViewController.xib8604139936#594"    cd /Users/hobby/Documents/SimpleRSSReader    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/RootViewController.nib /Users/hobby/Documents/SimpleRSSReader/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app.dSYM /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/SimpleRSSReader
+s336289288.276147
+e336289288.355795
+r1
+xGenerateDSYMFile
+x/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app.dSYM
+x/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/SimpleRSSReader
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/SimpleRSSReader.app.dSYM build/Debug-iphonesimulator/SimpleRSSReader.app/SimpleRSSReader336289288#336289288#0(0"0(0#0#102"/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/SimpleRSSReader8599825792#407"    cd /Users/hobby/Documents/SimpleRSSReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/SimpleRSSReader -o /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app.dSYM0#
+
+CLd /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/SimpleRSSReader normal i386
+s336289287.633789
+e336289288.276037
+r1
+xLd
+x/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/SimpleRSSReader
+xnormal
+xi386
+lSLF07#2@107"Link /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/SimpleRSSReader336289287#336289288#0(0"0(0#0#0"8604242528#940"    cd /Users/hobby/Documents/SimpleRSSReader    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator -F/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator -filelist /Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/Objects-normal/i386/SimpleRSSReader.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/SimpleRSSReader0#
+
+CProcessInfoPlistFile /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/Info.plist SimpleRSSReader-Info.plist
+s336204196.578961
+e336204196.674129
+r1
+xProcessInfoPlistFile
+x/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/Info.plist
+xSimpleRSSReader-Info.plist
+lSLF07#2@34"Process SimpleRSSReader-Info.plist336204196#336204196#0(0"0(0#0#65"/Users/hobby/Documents/SimpleRSSReader/SimpleRSSReader-Info.plist31244169098821736#503"    cd /Users/hobby/Documents/SimpleRSSReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SimpleRSSReader-Info.plist -genpkginfo /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app/Info.plist0#
+
+CProcessPCH /var/folders/EN/ENyP173gGJSC-ulLjoisqk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleRSSReader_Prefix-eqcbhivzafxaojcgpifgciwlwcrb/SimpleRSSReader_Prefix.pch.gch SimpleRSSReader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s336204200.076391
+e336204206.643758
+r1
+xProcessPCH
+x/var/folders/EN/ENyP173gGJSC-ulLjoisqk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleRSSReader_Prefix-eqcbhivzafxaojcgpifgciwlwcrb/SimpleRSSReader_Prefix.pch.gch
+xSimpleRSSReader_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile SimpleRSSReader_Prefix.pch336204200#336204206#0(0"0(0#0#65"/Users/hobby/Documents/SimpleRSSReader/SimpleRSSReader_Prefix.pch8614857504#1958"    cd /Users/hobby/Documents/SimpleRSSReader    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/SimpleRSSReader-generated-files.hmap -I/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/SimpleRSSReader-own-target-headers.hmap -I/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/SimpleRSSReader-all-target-headers.hmap -iquote /Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/SimpleRSSReader-project-headers.hmap -F/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator -I/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/include -I/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/DerivedSources/i386 -I/Users/hobby/Documents/SimpleRSSReader/build/SimpleRSSReader.build/Debug-iphonesimulator/SimpleRSSReader.build/DerivedSources -c /Users/hobby/Documents/SimpleRSSReader/SimpleRSSReader_Prefix.pch -o /var/folders/EN/ENyP173gGJSC-ulLjoisqk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SimpleRSSReader_Prefix-eqcbhivzafxaojcgpifgciwlwcrb/SimpleRSSReader_Prefix.pch.gch0#
+
+CTouch /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app
+s336289288.355891
+e336289288.391788
+r1
+xTouch
+x/Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app
+lSLF07#2@92"Touch /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app336289288#336289288#0(0"0(0#0#0"8603855040#286"    cd /Users/hobby/Documents/SimpleRSSReader    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/hobby/Documents/SimpleRSSReader/build/Debug-iphonesimulator/SimpleRSSReader.app0#
+
